@@ -1,0 +1,24 @@
+info: ::1 - - [23/Jan/2024:04:44:00 +0000] "GET /api/v1/ HTTP/1.1" 200 9 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+
+info: ::1 - - [23/Jan/2024:04:44:00 +0000] "GET /favicon.ico HTTP/1.1" 404 47 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+
+info: ::1 - - [23/Jan/2024:09:13:30 +0000] "GET /api/v1/ HTTP/1.1" 200 9 "-" "PostmanRuntime/7.34.0"
+
+info: ::1 - - [23/Jan/2024:09:21:53 +0000] "GET /api/v1/ HTTP/1.1" 404 47 "-" "PostmanRuntime/7.34.0"
+
+info: ::1 - - [23/Jan/2024:09:34:24 +0000] "GET /api/v1/ HTTP/1.1" 404 47 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+
+info: ::1 - - [23/Jan/2024:09:34:24 +0000] "GET /favicon.ico HTTP/1.1" 404 47 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+
+info: ::1 - - [23/Jan/2024:09:34:39 +0000] "GET /api/v1/ HTTP/1.1" 200 9 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+
+info: ::1 - - [23/Jan/2024:09:37:20 +0000] "GET /api/v1/ HTTP/1.1" 200 9 "-" "PostmanRuntime/7.34.0"
+
+info: ::1 - - [23/Jan/2024:09:44:04 +0000] "GET /api/v1/users HTTP/1.1" 500 93 "-" "PostmanRuntime/7.34.0"
+
+info: ::1 - - [23/Jan/2024:09:48:31 +0000] "GET /api/v1/users/a;;data HTTP/1.1" 404 47 "-" "PostmanRuntime/7.34.0"
+
+info: ::1 - - [23/Jan/2024:09:48:46 +0000] "GET /api/v1/users/alldata HTTP/1.1" 500 93 "-" "PostmanRuntime/7.34.0"
+
+info: ::1 - - [23/Jan/2024:10:02:07 +0000] "GET /api/v1/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+
